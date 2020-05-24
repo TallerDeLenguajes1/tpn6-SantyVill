@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KeavTBc5xGd4eoy+B8Vm1xuMyTPM82ZoS/jsA9dkKSfWXKukWl9dFU+TxayRsZgAmjEH+iTDTl3Z/DgqExZRqg==",
+  "success": true,
+  "projectFilePath": "C:\\Repogit\\tpn6-SantyVill\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

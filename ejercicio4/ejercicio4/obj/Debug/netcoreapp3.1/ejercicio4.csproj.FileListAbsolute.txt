@@ -1,0 +1,13 @@
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.exe
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.deps.json
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.json
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.dev.json
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csprojAssemblyReference.cache
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfoInputs.cache
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfo.cs
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Repogit\tpn6-SantyVill\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.genruntimeconfig.cache
