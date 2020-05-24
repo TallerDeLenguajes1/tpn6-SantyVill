@@ -24,8 +24,7 @@ Las secuencias de escape no tienen efecto, y además la cadena puede ocupar dos 
 
 ## Ejercicio 5
 * ¿Funcionan únicamente en C#?
-
+Las expresiones regulares tambien pueden ser usadas en otros lenguajes
 * ¿En qué casos le parecen útiles? Enuncie al menos 3.
-
-* ¿Cómo se hace uso de estas en C#?
+Puede ser util en casos donde se deba controlar el formato de una fecha,numero de telefono, etc. Tambien podria usarce para ecuaciones matematicas
 
